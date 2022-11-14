@@ -1,0 +1,10 @@
+{
+  "name": "IAC-Brackets",
+  "version": "1.0.0",
+  "description": "This program is designed to simulate League of legends IAC tournament",
+  "main": "index.js",
+  "repository": "https://github.com/MrGaFs/IAC-Brackets",
+  "author": "MrGAFs",
+  "license": "MIT",
+  "private": false
+}
